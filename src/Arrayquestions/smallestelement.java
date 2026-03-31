@@ -19,7 +19,8 @@ public class smallestelement {
           }
            
       }
-       System.out.println("smallest element is:"+small);
+       System.out.println("smallest element is:"
+               + ""+small);
     }
     
 }
